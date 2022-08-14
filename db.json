@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "alex",
+      "src": "kl.jpg"
+    },
+    {
+      "name": "Frenk",
+      "src": "kl.jpg",
+      "id": 2
+    },
+    {
+      "name": "alex",
+      "src": "kl2.jpg",
+      "id": 3
+    },
+    {
+      "id": 67,
+      "name": "Helga",
+      "src": "kl2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Helga",
+      "src": "kl2.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Helga",
+      "src": "kl2.jpg"
+    },
+    {
+      "id": "45",
+      "name": "Frenk",
+      "src": "kl2.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Frenk",
+      "src": "kl2.jpg"
+    },
+    {
+      "name": "Klepa",
+      "src": "kl.jpg",
+      "id": "50"
+    },
+    {
+      "id": "346",
+      "name": "Alex",
+      "src": "kl3.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Frenc",
+      "src": "kl3.jpg"
+    },
+    {
+      "id": "4545",
+      "name": "Alex",
+      "src": "kl3.jpg"
+    },
+    {
+      "id": "23",
+      "name": "alex",
+      "src": "kl3.jpg"
+    },
+    {
+      "id": "3456",
+      "name": "Alex",
+      "src": "kl3.jpg"
+    },
+    {
+      "id": "232",
+      "name": "Klependiy",
+      "src": "kl2.jpg"
+    }
+  ]
+}

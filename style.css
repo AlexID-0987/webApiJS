@@ -1,0 +1,21 @@
+.im{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.im img{
+    width: 100%;
+}
+.name{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.cardItem{
+    border: black solid  1px ;
+    margin: 0.5em;
+    background-color: gold;
+    text-align: center;
+    border-radius: 0.5em;
+}
